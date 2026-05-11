@@ -1,0 +1,17 @@
+ac/at/kbauer/expressions/ExpressionTest$DivisionTests.class
+ac/at/kbauer/expressions/ExpressionTest$AdditionTests.class
+ac/at/kbauer/expressions/ExpressionTest$PostfixTests.class
+ac/at/kbauer/expressions/ExpressionTest$CosineTests.class
+ac/at/kbauer/expressions/ExpressionTest$NegativeTests.class
+ac/at/kbauer/expressions/ExpressionTest$BinaryOperationSetterTests.class
+ac/at/kbauer/expressions/ExpressionTest$NumberTests.class
+ac/at/kbauer/expressions/ExpressionTest.class
+ac/at/kbauer/expressions/ExpressionTest$ExponentTests.class
+ac/at/kbauer/expressions/ExpressionTest$SubtractionTests.class
+ac/at/kbauer/expressions/ExpressionTest$VariableTests.class
+ac/at/kbauer/expressions/ExpressionTest$MinimumTests.class
+ac/at/kbauer/expressions/ExpressionTest$MultiplikationTests.class
+ac/at/kbauer/expressions/ExpressionTest$SineTests.class
+ac/at/kbauer/expressions/ExpressionTest$MaximumTests.class
+ac/at/kbauer/expressions/ExpressionTest$CompositeTests.class
+ac/at/kbauer/expressions/ExpressionTest$LogarithmTests.class
